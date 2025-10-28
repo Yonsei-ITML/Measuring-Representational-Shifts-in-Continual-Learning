@@ -22,9 +22,6 @@ The framework allows researchers to interpret how internal feature spaces evolve
 Clone the repository and install all dependencies as follows:
 
 ```bash
-git clone https://github.com/<your-org-or-username>/linear-shift-measure.git
-cd linear-shift-measure
-
 pip install black==21.6b0 \
             aiohttp==3.7.4 \
             aiohttp_cors==0.7.0 \
